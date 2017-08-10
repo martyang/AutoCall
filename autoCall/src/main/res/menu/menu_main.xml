@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".main.MainActivity">
+    <item
+        android:id="@+id/reports"
+        android:orderInCategory="100"
+        android:title="@string/testReport"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/clearReport"
+        android:orderInCategory="100"
+        android:title="@string/clearReport"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/restore_default"
+        android:orderInCategory="100"
+        android:title="@string/restoreDefault"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_abouts"
+        android:orderInCategory="100"
+        android:title="@string/action_abouts"
+        app:showAsAction="never" />
+</menu>

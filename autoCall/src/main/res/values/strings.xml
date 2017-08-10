@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GfiveTestActivity!</string>
+    <string name="app_name">AutoCallTest</string>
+    <string name="number">电话号码</string>
+    <string name="count">通话轮次(次)</string>
+    <string name="gap_time">通话间隔(秒)</string>
+    <string name="call_time">通话时长(秒)</string>
+    <string name="start">开始</string>
+    <string name="end">结束</string>
+    <string name="result">测试结果</string>
+    <string name="app_about">测试完成</string>
+    <string name="str_ok">确定</string>
+    <string name="Total_times">测试总数</string>
+    <string name="successful">成功个数</string>
+    <string name="failed_str">失败个数</string>
+    <string name="RunningTime">测试时间(秒)</string>
+    <string name="supportsigle">目前仅支持单个SIM卡（双卡手机只能装一张SIM卡）</string>
+    <string name="isspeakerphoneopen">是否自动开启扬声器</string>
+    <string name="testReport">查看结果</string>
+    <string name="clearReport">清除结果</string>
+    <string name="action_abouts">关于</string>
+    <string name="restoreDefault">恢复默认参数</string>
+    <string name="action_version">版本号</string>
+    <string name="action_author">金立OS中心 自动化组</string>
+    <string name="author_name">——宋研聪</string>
+    <string name="default_number">10086,10010</string>
+    <string name="default_count">3</string>
+    <string name="default_timeout">20</string>
+    <string name="default_duration">10</string>
+    <string name="default_duration_sum">60</string>
+    <string name="duration_sum_str">每轮时长(秒)</string>
+    <string name="number_input_tips">多个联系人需要用逗号“,”分开</string>
+    <string name="tools_Tips">本工具实现对多个号码轮流拨打;\n1.输入电话号码时需要用英文逗号隔开;\n2.分别拨打号码完毕为一轮;\n3.通话间隔为每次通话的间隔时长\n4.通话时长是单次通话的时长\n5.每轮时长是通话一轮的时长</string>
+    <string name="showReport">查看测试结果</string>
+    <string name="clear_Report">清除测试结果</string>
+    <string name="restore_default">恢复默认参数</string>
+</resources>

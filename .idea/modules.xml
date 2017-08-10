@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutoCall.iml" filepath="$PROJECT_DIR$/AutoCall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoCallAndEndCall.iml" filepath="$PROJECT_DIR$/AutoCallAndEndCall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autoCall/autoCall.iml" filepath="$PROJECT_DIR$/autoCall/autoCall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autotestMonitorIncomingCall/autotestMonitorIncomingCall.iml" filepath="$PROJECT_DIR$/autotestMonitorIncomingCall/autotestMonitorIncomingCall.iml" />
+    </modules>
+  </component>
+</project>

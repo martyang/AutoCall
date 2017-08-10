@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GfiveTestActivity!</string>
+    <string name="app_name">AutoCallEndTest</string>
+    <string name="number">电话号码</string>
+    <string name="count">通话次数</string>
+    <string name="gap_time">通话间隔</string>
+    <string name="call_time">通话时长</string>
+    <string name="start">开始</string>
+    <string name="end">结束</string>
+    <string name="result">测试结果</string>
+    <string name="app_about">测试完成</string>
+    <string name="str_ok">确定</string>
+    <string name="Tota_times">测试总数</string>
+    <string name="successful">成功个数</string>
+    <string name="failed">失败个数</string>
+    <string name="RunningTime">测试时间</string>
+    <string name="title_activity_my_telephony">监控来电</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="isDistinguishEndStr">识别后定时挂断时间</string>
+    <string name="action_version">版本号</string>
+    <string name="action_author">金立OS中心 自动化组</string>
+    <string name="author_name">——宋研聪</string>
+    <string name="action_abouts">关于</string>
+</resources>

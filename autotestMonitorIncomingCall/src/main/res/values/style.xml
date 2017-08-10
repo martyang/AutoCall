@@ -1,0 +1,32 @@
+<resources>
+    <!-- &lt;!&ndash; Base application theme. &ndash;&gt;
+     <style name="AppTheme" >
+         &lt;!&ndash; Customize your theme here. &ndash;&gt;
+         <item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+         <item name="actionBarWidgetTheme">@null</item>
+         <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+         &lt;!&ndash; Panel attributes &ndash;&gt;
+         <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+         <item name="colorPrimary">@color/colorPrimary</item>
+         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+         <item name="colorAccent">@color/colorAccent</item>
+         &lt;!&ndash; We can use the platform styles on API 23+ &ndash;&gt;
+         <item name="ratingBarStyleIndicator">?android:attr/ratingBarStyleIndicator</item>
+         <item name="ratingBarStyleSmall">?android:attr/ratingBarStyleSmall</item>
+         &lt;!&ndash; We can use the platform drawable on v23+ &ndash;&gt;
+         <item name="actionBarItemBackground">?android:attr/actionBarItemBackground</item>
+         &lt;!&ndash; We can use the platform styles on v23+ &ndash;&gt;
+         <item name="actionMenuTextColor">?android:attr/actionMenuTextColor</item>
+         <item name="actionMenuTextAppearance">?android:attr/actionMenuTextAppearance</item>
+
+         <item name="controlBackground">@drawable/abc_control_background_material</item>
+     </style>-->
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        &lt;!&ndash; Customize your theme here. &ndash;&gt;
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>-->
+
+</resources>
